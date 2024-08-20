@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Xcel2PPT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93BD35C552A54B38A91C259398C0AE2E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C7DC74CDC744604A30AEB9F48649E1F }}
